@@ -47,3 +47,8 @@ How will marks be given to team members?
 First, the implementation and documentation of the game will be graded based on the requirements listed above.
 Then the peer evaluation section of the project report (section e) will be taken into consideration when assigning marks to each team member. 
 Teams should get together as soon as possible to discuss the requirements and decide on how to break down the task to assign to each team member. Feel free to contact the TA/Graders or the instruction if more information is needed.
+
+
+Some Useful References:
+https://www.morewords.com/unique-letters/
+https://courses.missouristate.edu/KenVollmar/mars/Help/MacrosHelp.html
