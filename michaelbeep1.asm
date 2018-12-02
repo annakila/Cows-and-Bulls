@@ -17,8 +17,6 @@ main:
 	syscall 
 
 
-syscall
-
 
 .data
 
