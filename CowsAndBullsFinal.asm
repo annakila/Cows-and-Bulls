@@ -3,7 +3,7 @@
 	wordCount: 	.word	3120
 	
 	Welc01: 	.asciiz "Cows and Bulls: Word Version\n"
-	Welc02: 	.asciiz "Authors: Jalo Aguero, Annakila Jepsen, Michael Connelly, Nooreen Ahmad"
+	Welc02: 	.asciiz "Authors: Jalo Aguero, Annakila Jepsen, Michael Connelly, Nooreen Ahmad\n"
 	Menu00: 	.asciiz "Choose from the following:\n\n"
 	Menu01: 	.asciiz "[1] Start a new game\n"
 	Menu02:		.asciiz "[2] How to play\n"
@@ -24,7 +24,7 @@
 	Answer:		.space 64
 	return:		.asciiz "\n"
 	MenuChoice:	.space 64
-	Inst:		.asciiz "Welcome to the Bulls and Cows: Word Edition game. \n\nThe object of the game is to correctly guess \na randomly generated 4 letter word. \nFor each guess, the computer will return \none of three options. \n\nA 'Bull' indicates that a letter you guessed \nis correct and in the correct position within the \nmystery word. \n\nA 'Cow' indicates that a letter you guessed \nis in the mystery word, however it is in a different \nlocation. \n\nA 'Miss' indicates that the letter \nyou guessed is not in the word at all. \n\nTo make a valid guess, enter a 4 letter word from the \nenglish language with no repeating letters.\n\n " 
+	Inst:		.asciiz "\nWelcome to the Bulls and Cows: Word Edition game. \n\nThe object of the game is to correctly guess \na randomly generated 4 letter word. \nFor each guess, the computer will return \none of three options. \n\nA 'Bull' indicates that a letter you guessed \nis correct and in the correct position within the \nmystery word. \n\nA 'Cow' indicates that a letter you guessed \nis in the mystery word, however it is in a different \nlocation. \n\nTo make a valid guess, enter a 4 letter word from the \nenglish language with no repeating letters.\n\n " 
 	
 	Score01:	.asciiz "\nYour guess has "
 	Score02:	.asciiz "has "
